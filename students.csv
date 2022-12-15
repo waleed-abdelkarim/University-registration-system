@@ -1,0 +1,6 @@
+studentId,name,age,gender,department,GPA,totalHours,regHour,attemptedCourses[],completedCourses[]
+111111111,Administrator,30,M,IS,5,0,0,[],[]
+441106059,Waleed-Abdelkarim,21,M,IS,5,4,9,[101BUS.151MATH.201IS],[111CSC]
+441103271,Bassam-Alanazi,21,M,IS,5,3,10,[101BUS.201IS.111CSC],[151MATH]
+441102195,Suliman-Alodaib,21,M,IS,5,3,10,[101BUS.151MATH.111CSC],[201IS]
+441106058,wa,20,M,IS,5,0,0,[],[]
